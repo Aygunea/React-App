@@ -1,0 +1,18 @@
+.wishlist-card{
+    padding: 10px 30px;
+    display: flex;
+    gap: 10px;
+}
+.wishlist-body{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.wishlist-card img{
+    width: 150px;
+}
+.wishlist-buttons{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}

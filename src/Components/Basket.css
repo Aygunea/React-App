@@ -1,0 +1,30 @@
+#basket-cards{
+padding: 20px 30px;
+}
+.basket-card{
+    padding: 10px 0;
+    display: flex;
+    gap: 20px;
+}
+.basket-card-body{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.basket-card img{
+    width: 150px;
+}
+.count-btns{
+    border: 1px solid #aeaeae;
+    width: max-content;
+
+}
+.count-btns button{
+    width: max-content;
+    padding: 10px 13px;
+}
+.card-count{
+    border: 1px solid #aeaeae;
+    border-top: none;
+    border-bottom:none ;
+}
